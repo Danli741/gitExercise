@@ -1,6 +1,1 @@
-this is master version.
-this is from childbranch.
-this is another new line from childbranch
-this is a line from master.
-this is a line from master to prevent cbranch
-again, this is from cbranch
+new master line
