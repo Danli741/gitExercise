@@ -3,3 +3,4 @@ this is from childbranch.
 this is another new line from childbranch
 again, this is from cbranch
 check merge - cbranch
+does not fetch data from master
